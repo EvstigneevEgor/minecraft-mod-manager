@@ -1,0 +1,13 @@
+{
+  "minecraft_root_path": "/home/mc/server",
+  "enable_auto_update": true,
+  "update_interval": 2,
+  "server_properties_path": null,
+  "mod_loader": "fabric",
+  "api_cache_ttl": 300,
+  "backup_state": true,
+  "log_level": "INFO",
+  "max_concurrent_downloads": 3,
+  "download_timeout": 30,
+  "retry_attempts": 3
+}
